@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage("Git"){
       when {
-        branch 'develop'
+        branch 'test'
       }
       steps{
         echo "Git Repo coming"
