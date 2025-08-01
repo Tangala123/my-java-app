@@ -27,7 +27,7 @@ pipeline{
     }
      stage("nexus"){
       when {
-        branch 'main'
+        branch 'uat'
       }
       steps{
         echo "nexus upload artifacts coming"
