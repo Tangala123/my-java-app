@@ -4,6 +4,6 @@
   <title>Hello Jenkins</title>
 </head>
 <body>
-  <h2>Hello World, Welcome to Jenkins!</h2>
+  <h2>Hello World, Welcome to Jenkins application!</h2>
 </body>
 </html>
